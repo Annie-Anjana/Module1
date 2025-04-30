@@ -24,4 +24,4 @@ else:
 ![Screenshot 2025-04-30 103737](https://github.com/user-attachments/assets/6415484e-cd3d-4ff2-80c2-ac78f81e8b93)
 
 ## Result
-program executed successfully
+program executed successfully.
